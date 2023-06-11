@@ -1,7 +1,14 @@
 # gonads
 
-This README outlines the details of collaborating on this Go module. A short
-introduction of this module could easily go here.
+In [functional
+programming](https://en.wikipedia.org/wiki/Functional_programming) a monad is
+a structure that encapsulates a function, and its return value(s), in a type
+providing more deterministic computational behaviours, and mitigating
+side-effects. Mondas may be used to reduce boilerplate code needed for common
+operations, such as dealing with optional or undefined values safely.
+
+This module implements some well-known monadic structures that can be used in
+Go programs to introduce functional paradigms.
 
 ## Prerequisites
 
