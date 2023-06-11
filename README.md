@@ -1,4 +1,4 @@
-# gonads
+# gonads ![test](https://github.com/tomasbasham/gonads/workflows/test/badge.svg?event=push)
 
 In [functional
 programming](https://en.wikipedia.org/wiki/Functional_programming) a monad is
